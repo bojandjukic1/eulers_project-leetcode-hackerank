@@ -1,2 +1,2 @@
-# pythonprojects
-Various python projects to develop programming skills
+#Coding problems
+Various problems solved in different programming languages to develop programming skills
